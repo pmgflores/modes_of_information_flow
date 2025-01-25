@@ -25,7 +25,7 @@ The code includes analysis of emotional content in social media communications f
 4. Visualization of information flow modes
 
 ## References
-Based on the post: ["Modes of Information Flow"](http://pablomflores.com/modes-of-information-flow) by Pablo M. Flores.
+This repo contains the complementary materials of the post: ["Modes of Information Flow"](http://pablomflores.com/modes-of-information-flow) by Pablo M. Flores.
 
 ## License
 This work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by].
